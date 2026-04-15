@@ -77,8 +77,8 @@ It combines:
 ## 🌟 How to Run Locally
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/Sadiyamarfua9/GBM-Survival-Prediction-using-MobileNetV2-and-DeepSurv.git
-cd GBM-survival-prediction
+git clone https://github.com/Sadiyamarfua9/GBM-Survival-Prediction-using-MobileNetV2-and-DeepSurv.git<br>
+cd GBM-Survival-Prediction-using-MobileNetV2-and-DeepSurv
 
 ### 2️⃣ Create Virtual Environment
 python -m venv venv
