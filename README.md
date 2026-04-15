@@ -88,21 +88,21 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 ### 4️⃣ Run Pipeline
-python src/step1_clinical.py
-python src/step2_genomic.py
-python src/step3_preprocess_genomic.py
-python src/step4_merge.py
-python src/step5_prepare_survival.py
-python src/step6_deepsurv_model.py
-python src/step7_train_deepsurv.py
-
-python src/step1a_load_mri.py
-python src/step2a_extract_mri_slices.py
-python src/step3a_preprocess_mri.py
-python src/step4a_feature_extraction.py
-
-python src/step5a_fusion.py
-python src/step6a_train_fusion.py
-python src/step7a_evaluate_fusion.py
-python src/step9_km_curve.py
+python src/step1_clinical.py<br>
+python src/step2_genomic.py<br>
+python src/step3_preprocess_genomic.py<br>
+python src/step4_merge.py<br>
+python src/step5_prepare_survival.py<br>
+python src/step6_deepsurv_model.py<br>
+python src/step7_train_deepsurv.py<br>
+<br>
+python src/step1a_load_mri.py<br>
+python src/step2a_extract_mri_slices.py<br>
+python src/step3a_preprocess_mri.py<br>
+python src/step4a_feature_extraction.py<br>
+<br>
+python src/step5a_fusion.py<br>
+python src/step6a_train_fusion.py<br>
+python src/step7a_evaluate_fusion.py<br>
+python src/step9_km_curve.py<br>
 
